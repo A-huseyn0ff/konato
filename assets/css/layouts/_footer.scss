@@ -1,0 +1,24 @@
+.footer-wrapper{
+    .footer-area{
+       .container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+       }
+    }
+}
+.footer-bottom{
+    .container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+       .footer-border{
+        .fa-heart{
+            color: $renk2;
+           
+           
+        }
+       }
+    }
+}

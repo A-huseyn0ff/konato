@@ -1,0 +1,80 @@
+a{
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+}
+.row{
+    h1{
+        font-size: 50px;
+        font-weight: 700;
+ }
+}
+.main-sec{
+    .container{
+        .row1{
+            h1{
+                font-size: 50px;
+                    font-weight: 700;
+                    color: $renk3;
+             }
+         }
+    }
+}
+.main-multiple-slider-1{
+    .container{
+        .row1{
+            h1{
+                font-size: 50px;
+                    font-weight: 700;
+                    color: black;
+            }
+        }
+    }
+}
+ 
+
+
+
+p{
+    font-size: 20px;
+    font-weight: 300;
+}
+
+
+    .col{
+        .col-txt{
+          h3{
+            font-size: 30px;
+                    font-weight: 700;
+                    color: $renk3;
+          }
+          p{
+            font-size: 20px;
+            font-weight: 700;
+            color: $renk3;  
+        }
+        }
+    }
+    .main-sec-our-agents{
+        .container{
+            .row1{
+                h1{
+                    font-size: 50px;
+                        font-weight: 700;
+                        color: black;
+                }
+            }
+        }
+    }
+    .tailor-details{
+        h2{
+            font-size: 40px;
+            font-weight: 700;
+            color: $renk3;  
+        }
+        p{
+            font-size: 20px;
+            font-weight: 300;
+            color: $renk3; 
+        }
+    }
